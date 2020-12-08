@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Maik 👋
 
+
+I'm currently a Computer Sciente student at UFABC, I love to learn about tech and I'm currently improving my hard skills over web development, checkout my repositiries to see what I'm working on
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaikHenriqueSP)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MaikHenriqueSP/MaikHenriqueSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
